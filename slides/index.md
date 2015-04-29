@@ -3,4 +3,4 @@
 
 ## Chaparral Elementary Career Day
 
-Tom Wayson (Charlie's dad)
+Tom Wayson

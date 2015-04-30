@@ -1,6 +1,6 @@
 
 # Making Modern Day Maps
 
-## Chaparral Elementary Career Day
+## CUSD Career Day
 
 Tom Wayson

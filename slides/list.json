@@ -77,6 +77,26 @@
     ],
     "cool-maps.md",
     [
+        "what-do-i-do.md",
+        "esri.md",
+        {
+            "attr": {
+                "data-background": "http://i.imgur.com/lz7hOlC.gif"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "images/sublime-screenshot.png"
+            }
+        },
+        "skills.md",
+        {
+            "attr": {
+                "data-background": "https://c3.staticflickr.com/3/2841/11512594484_6ab7131cc8_b.jpg"
+            }
+        }
+    ],
+    [
         {
             "filename": "you-can-do-this-too.md",
             "attr": {
@@ -84,5 +104,11 @@
             }
         },
         "claremont-treasure-map.md"
-    ]
+    ],
+    {
+        "filename": "thank-you.md",
+        "attr": {
+            "data-background": "images/akbar.jpg"
+        }
+    }
 ]

@@ -1,5 +1,6 @@
 [
     "index.md",
+    "esri.md",
     [
         "what-is-a-map.html",
         {
@@ -17,7 +18,7 @@
                 "data-background": "http://static.ibnlive.in.com/ibnlive/pix/sitepix/03_2012/car-navigation-300312.jpg"
             }
         },
-        "a-map-helps-people.md"
+        "maps-help-people.md"
     ],
     [
         "how-do-we-make-maps.md",
@@ -38,7 +39,17 @@
         },
         {
             "attr": {
+                "data-background": "http://upload.wikimedia.org/wikipedia/commons/8/8d/GPS_Satellite_NASA_art-iif.jpg"
+            }
+        },
+        {
+            "attr": {
                 "data-background": "https://www.e-education.psu.edu/geog480/sites/www.e-education.psu.edu.geog480/files/geog883/image/L05_fig02.jpg"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "https://c2.staticflickr.com/2/1299/4682545508_acede49145_z.jpg"
             }
         },
         {
@@ -78,7 +89,6 @@
     "cool-maps.md",
     [
         "what-do-i-do.md",
-        "esri.md",
         {
             "attr": {
                 "data-background": "http://i.imgur.com/lz7hOlC.gif"
@@ -89,12 +99,7 @@
                 "data-background": "images/sublime-screenshot.png"
             }
         },
-        "skills.md",
-        {
-            "attr": {
-                "data-background": "https://c3.staticflickr.com/3/2841/11512594484_6ab7131cc8_b.jpg"
-            }
-        }
+        "skills.md"
     ],
     [
         {
@@ -104,6 +109,24 @@
             }
         },
         "claremont-treasure-map.md"
+    ],
+    [
+        "whats-it-like.md",
+        {
+            "attr": {
+                "data-background": "images/desk-toys.jpg"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "https://c3.staticflickr.com/3/2841/11512594484_6ab7131cc8_b.jpg"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "http://cdn.screenrant.com/wp-content/uploads/Batman-of-the-Office-Video-570x294.jpg"
+            }
+        }
     ],
     {
         "filename": "thank-you.md",
